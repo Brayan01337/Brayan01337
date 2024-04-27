@@ -8,7 +8,7 @@
 
 
 
-## Tecnoogias que eu uso do meu dia
+## Tecnologias que eu uso do meu dia
 
 <dvi stye="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
